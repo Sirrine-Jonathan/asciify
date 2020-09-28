@@ -1,0 +1,1 @@
+pyinstaller --onefile --add-data "C:\Python38\Lib\site-packages\pyfiglet";./pyfiglet asciify.py
